@@ -7,6 +7,6 @@
 ### 4.前面会大致输出两个文件的部分信息，默认处理第一个Sheet
 ### 5.选择对应的基准组，第一个必选，第二个可选
 ### 6.确定后点击#开始合并文件#，合并后的文件将保存在软件目录下
-## 其他问题请联系作者Violetnris@outlook.com
+## 其他问题请联系作者Violetnris@outlook.com或者直接提交issues
 
 ## 开发环境Python 3.8，主要使用了Tkinter和Xlwt，Xlrd。
