@@ -10,3 +10,5 @@
 ## 其他问题请联系作者Violetnris@outlook.com或者直接提交issues
 
 ## 开发环境Python 3.8，主要使用了Tkinter和Xlwt，Xlrd。
+### fakeData用于生成测试信息，不过需要手动去改一下生成的Excel，后面想起来再弄一个全自动的
+### info_0.xls和info_1.xls是已经弄好的测试信息，共有1000行
